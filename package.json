@@ -1,6 +1,6 @@
 {
   "name": "@ehbraheem/udacimak",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Udacity Nanodegree/course downloader and renderer",
   "main": "index.js",
   "scripts": {
