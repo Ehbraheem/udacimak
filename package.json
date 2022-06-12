@@ -1,6 +1,6 @@
 {
-  "name": "udacimak",
-  "version": "1.6.6",
+  "name": "@ehbraheem/udacimak",
+  "version": "0.0.1",
   "description": "Udacity Nanodegree/course downloader and renderer",
   "main": "index.js",
   "scripts": {
@@ -33,12 +33,12 @@
     "udacity download content",
     "udacity content downloader"
   ],
-  "author": "udacimak <udacimak@tutanota.com>",
+  "author": "Ehbraheem <ehbraheem@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/udacimak/udacimak/issues"
+    "url": "https://github.com/EHbraheem/udacimak/issues"
   },
-  "homepage": "https://github.com/udacimak/udacimak#readme",
+  "homepage": "https://github.com/Ehbraheem/udacimak#readme",
   "preferGlobal": true,
   "bin": {
     "udacimak": "./lib/index.js"
@@ -88,6 +88,6 @@
     "user-settings": "^0.2.0",
     "valid-url": "^1.0.9",
     "winston": "^3.1.0",
-    "youtube-dl": "^3.0.2"
+    "youtube-dl": "3.5.0"
   }
 }
